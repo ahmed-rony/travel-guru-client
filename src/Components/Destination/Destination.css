@@ -1,0 +1,64 @@
+.destination-content h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+.destination-item{
+    background: #fffaf1 !important;
+    margin-bottom: 30px;
+}
+.stay-img{
+    width: 100%;
+}
+
+.service-counts{
+    display: flex;
+    padding-top: 10px;
+}
+.service-counts p{
+    margin-right: 10px !important;
+}
+.service-icon{
+    font-size: 20px;
+}
+.stay-title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    padding-top: 10px !important;
+}
+.stay-service, .values{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #6A6A6A;
+}
+.special-service p{
+    padding-top: 10px !important;
+}
+.values{
+    padding-top: 5px !important;
+}
+.values p{
+    display: inline-block;
+    font-weight: 600 !important;
+}
+.rating{
+    color: #000;
+    
+}
+.star-icon{
+    color: #F9A51A;
+}
+.price{
+    margin-left: 34px !important;
+}
+.amount{
+    font-size: 18px !important;
+    color: #000;
+    font-weight: 600 !important;
+}
+.google-map{
+    width: 100%;
+    height: 100%;
+}
